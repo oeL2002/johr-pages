@@ -1,0 +1,14 @@
+:root { color-scheme: light dark; }
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  line-height: 1.6; max-width: 42rem; margin: 0 auto; padding: 3rem 1.25rem;
+  background: Canvas; color: CanvasText;
+}
+h1 { font-size: 1.6rem; margin-bottom: 0.25rem; }
+h2 { font-size: 1.1rem; margin-top: 2rem; }
+.sub { color: GrayText; margin-top: 0; }
+dt { font-weight: 600; margin-top: 0.75rem; }
+dd { margin: 0.15rem 0 0 0; }
+footer { margin-top: 3rem; color: GrayText; font-size: 0.875rem; }
+a { color: LinkText; }
+code { background: color-mix(in srgb, CanvasText 10%, transparent); padding: 0.1em 0.35em; border-radius: 3px; }
